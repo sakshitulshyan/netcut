@@ -1,4 +1,4 @@
-# netcut
+# Netcut
 Disable the net of anyone present in your network
 
 Directly download arp_spoofer.py and netcut.py
